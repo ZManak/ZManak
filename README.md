@@ -1,4 +1,4 @@
-![Welcome](https://img.shields.io/badge/HI!-Welcome%20to%20my%20profile-yellowgreen)
+![Welcome](https://img.shields.io/badge/HI!-Welcome%20to%20my%20profile-blueviolet)
 
 - 👋 Hi, I’m @ZManak
 - 👀 I’m interested in weird stuff
