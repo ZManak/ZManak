@@ -1,3 +1,5 @@
+![Welcome](https://img.shields.io/badge/HI!-Welcome%20to%20my%20profile-yellowgreen)
+
 - 👋 Hi, I’m @ZManak
 - 👀 I’m interested in weird stuff
 - 🌱 I’m currently learning full-stack web development at 
