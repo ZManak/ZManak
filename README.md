@@ -8,6 +8,11 @@
 ### SOME STATS
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZManak&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-deploy-alpha.vercel.app/api/top-langs/?username=ZManak&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-----------
+### DEMOS
+Here you can check some of the webs I deployed so far:
+- A dynamic frontend bookstore: https://nytimes-dynamic-bookstore.vercel.app/
+- A personal web (my 1st project): https://web-personal-zmanak.vercel.app/
 
 <!---
 ZManak/ZManak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
