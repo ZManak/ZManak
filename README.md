@@ -13,6 +13,10 @@
 Here you can check some of the webs I deployed so far:
 - A dynamic frontend bookstore: https://nytimes-dynamic-bookstore.vercel.app/
 - A personal web (my 1st project): https://web-personal-zmanak.vercel.app/
+-----------
+### A bit of background
+I'm a science & technology journalist that took the decision of redirecting his carreer: from writing about computers to work with them. These machines have always fascinated me and they have been in my life since the early days of my childhood, so this step just felt natural. My goal now is to learn something new everyday, and to put into practice. The WWW is a wild place and I'm grateful to be able to make it bigger and even more amazing.    
+"Stay calm and keep coding"
 
 <!---
 ZManak/ZManak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
