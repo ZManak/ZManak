@@ -25,6 +25,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZManak&show_icons=true&theme=radical&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZManak&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-zmanak.vercel.app/api/top-langs/?username=ZManak&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Codewars](https://www.codewars.com/users/ZaosManak/badges/large)
 -----------
 ### DEMOS
 Here you can check some of the webs I deployed so far:
