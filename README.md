@@ -31,6 +31,7 @@
 -----------
 ### DEMOS
 Here you can check some of the webs I deployed so far:
+- An old-style RPG shop deployed with Docker: https://dungeon-bazaar.onrender.com/
 - A dynamic frontend bookstore: https://nytimes-dynamic-bookstore.vercel.app/
 - A personal web (my 1st project): https://web-personal-zmanak.vercel.app/
 -----------
