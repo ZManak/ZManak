@@ -24,7 +24,7 @@
 ### SOME STATS
   
   [![Codewars](https://www.codewars.com/users/ZaosManak/badges/large)](https://www.codewars.com/users/ZaosManak)      
-  ![Anurag's GitHub stats](https://github-readme-stats-jzzlga1je-zmanak.vercel.app/api?username=ZManak&show_icons=true&theme=radical&hide_border=true)
+  ![Anurag's GitHub stats](https://camo.githubusercontent.com/fc78025a93f17e5407d7bd49537202e49804c0bd86421cfbe49896d441a0a656/68747470733a2f2f6769746875622d726561646d652d73746174732d6a7a7a6c6761316a652d7a6d616e616b2e76657263656c2e6170702f6170693f757365726e616d653d5a4d616e616b2673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d74727565)
   [![GitHub Streak](https://streak-stats.demolab.com?user=ZManak&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats-zmanak.vercel.app/api/top-langs/?username=ZManak&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
