@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @ZManak
 - 👀 I’m interested in weird stuff
-- 🌱 I’m currently learning full-stack web development at 
-- 💞️ I’m looking to collaborate on nothing for now
+- 🌱 I’m currently improving my coding skills & full-stack web development knowledge
+- 💞️ I’m looking to collaborate on open source projecects, specially those aimed to bring universal access to education and equal opportunities for everyone
 - 📫 How to reach me: TG-@zhaosmanak
 
 ### Skills 
